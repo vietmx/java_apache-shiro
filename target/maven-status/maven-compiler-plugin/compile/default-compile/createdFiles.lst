@@ -1,0 +1,15 @@
+com\maixuanviet\comparison\shiro\CustomRealm.class
+com\maixuanviet\intro\MyCustomRealm.class
+com\maixuanviet\intro\ShiroSpringApplication.class
+com\maixuanviet\comparison\springsecurity\config\SecurityConfig.class
+com\maixuanviet\intro\Main.class
+com\maixuanviet\intro\controllers\ShiroSpringController.class
+com\maixuanviet\permissions\custom\PathPermissionResolver.class
+com\maixuanviet\permissions\custom\PathPermission.class
+com\maixuanviet\permissions\custom\Main.class
+com\maixuanviet\comparison\springsecurity\web\SpringController.class
+com\maixuanviet\comparison\shiro\controllers\ShiroController.class
+com\maixuanviet\comparison\springsecurity\Application.class
+com\maixuanviet\intro\models\UserCredentials.class
+com\maixuanviet\comparison\shiro\models\UserCredentials.class
+com\maixuanviet\comparison\shiro\ShiroApplication.class
